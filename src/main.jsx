@@ -4,7 +4,7 @@ import "./index.css";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Objective from "./Pages/Objective";
-import Connect from "./pages/Connect";
+import Connect from "./Pages/connect";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
