@@ -1,6 +1,6 @@
 export default function Connect() {
   const handleConnect = () => {
-    window.location.href = "http://localhost:3001/auth/meta";
+    window.location.href = "https://ai-marketing-backend-diws.onrender.com/auth/meta";
   };
 
   return (
